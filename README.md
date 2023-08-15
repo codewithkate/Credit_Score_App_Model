@@ -45,10 +45,11 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,git,github,nodejs,mongodb,figma,netlify,vercel,supabase,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,vscode&perline=7)](https://skillicons.dev)
 
 - Python
 - Git/Github
+- VS Code
 
 ## Screenshots
 
