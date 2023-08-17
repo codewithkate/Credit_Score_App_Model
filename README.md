@@ -2,12 +2,12 @@
 
 General Assembly Hackathon Summer August 14th 2023
 
-## Prompt
+## Project Description
 
 ---
 
-Create a more complete, data-driven, real-time credit score software that considers a borrower's financial and credit history from the beginning of time and can be used to qualify borrowers for credit and loans. Nice to have features can include:
-consider bill payments, rent, utilities, subscriptions, and visualization of data.
+Embark on a seamless credit journey with our innovative web application. ScoreEase introduces a user-friendly interface that seamlessly combines the power of real-time data analysis with the entirety of your financial history. Say farewell to complex credit assessments and embrace a new era of simplicity and accuracy, as ScoreEase effortlessly allows borrowers to view credit and loans by tapping into their complete financial narrative, all at your fingertips.
+
 
 ## Contributors:
 
@@ -61,6 +61,10 @@ on its way..
 
 ---
 
-## Future Enhancements
+## Recommendations
 
-- Where do we go from here?
+- Retrieving a live consumer report for training.
+- Explore other risk analyses and scoring methods used throughout the industry.
+- Servicing the model to the main application.
+- Learn more about our user profiles.
+- Providing insights on best ways for users to improve their scores.
