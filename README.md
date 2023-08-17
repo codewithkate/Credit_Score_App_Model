@@ -2,26 +2,18 @@
 
 General Assembly Hackathon Summer August 14th 2023
 
-## Prompt
+## Project Description
 
 ---
 
-Create a more complete, data-driven, real-time credit score software that considers a borrower's financial and credit history from the beginning of time and can be used to qualify borrowers for credit and loans. Nice to have features can include:
-consider bill payments, rent, utilities, subscriptions, and visualization of data.
+Embark on a seamless credit journey with our innovative web application. ScoreEase introduces a user-friendly interface that seamlessly combines the power of real-time data analysis with the entirety of your financial history. Say farewell to complex credit assessments and embrace a new era of simplicity and accuracy, as ScoreEase effortlessly allows borrowers to view credit and loans by tapping into their complete financial narrative, all at your fingertips.
+
 
 ## Contributors:
 
 ---
-
-**Vivian Huynh (UX/UI Designer)**
-[LinkedIn](https://www.linkedin.com/in/vivianhuynh23/) |
-
-<!-- [GitHub](https://github.com/NAME) -->
-
-**Julia Heim (UX/UI Desinger)**
-[LinkedIn](https://www.linkedin.com/in/juliarheim/) |
-
-<!-- [GitHub](https://github.com/NAME) -->
+**Kimberly Mannette (UX Designer)**
+[LinkedIn](https://www.linkedin.com/in/kimberly-m-52124727)
 
 **Kate Crawford (Data Science Engineer)**
 [LinkedIn](https://www.linkedin.com/in/kaitlencrawford/) |
@@ -30,6 +22,10 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 **Mark Harris (Data Science Engineer)**
 [LinkedIn](https://www.linkedin.com/in/markcharris1/) |
 [GitHub](https://github.com/MarkCHarris)
+
+**Alaysia Veal (Software Engineer)**
+[LinkedIn](https://www.linkedin.com/in/alaysia-veal/)
+[GitHub](https://github.com/AlaysiaVeal)
 
 **Martin Fitzpatrick (Software Engineer)**
 
@@ -53,15 +49,10 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 
 ## Screenshots
 
----
-
-### Wireframes
+![Credit Score Model Diagram](https://github.com/codewithkate/Credit_Score_App_Model/blob/dev/CreditScoreApp.png)
 
 ---
 
-### Production version
-
----
 
 ## Deployed Website
 
@@ -70,6 +61,10 @@ on its way..
 
 ---
 
-## Future Enhancements
+## Recommendations
 
-- Where do we go from here?
+- Retrieving a live consumer report for training.
+- Explore other risk analyses and scoring methods used throughout the industry.
+- Servicing the model to the main application.
+- Learn more about our user profiles.
+- Providing insights on best ways for users to improve their scores.
