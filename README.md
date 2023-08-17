@@ -48,7 +48,7 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 - VS Code
 
 ## Screenshots
-
+![](Credit Score App.png)
 ---
 
 
