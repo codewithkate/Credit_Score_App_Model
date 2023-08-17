@@ -49,7 +49,7 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 
 ## Screenshots
 
-![Credit Score Model Diagram]([Credit Score App.png](https://github.com/codewithkate/Credit_Score_App_Model/blob/dev/Credit%20Score%20App.png))
+![Credit Score Model Diagram](https://github.com/codewithkate/Credit_Score_App_Model/blob/dev/CreditScoreApp.png)
 
 ---
 
