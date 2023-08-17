@@ -12,16 +12,8 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 ## Contributors:
 
 ---
-
-**Vivian Huynh (UX/UI Designer)**
-[LinkedIn](https://www.linkedin.com/in/vivianhuynh23/) |
-
-<!-- [GitHub](https://github.com/NAME) -->
-
-**Julia Heim (UX/UI Desinger)**
-[LinkedIn](https://www.linkedin.com/in/juliarheim/) |
-
-<!-- [GitHub](https://github.com/NAME) -->
+**Kimberly Mannette (UX Designer)**
+[LinkedIn](https://www.linkedin.com/in/kimberly-m-52124727)
 
 **Kate Crawford (Data Science Engineer)**
 [LinkedIn](https://www.linkedin.com/in/kaitlencrawford/) |
@@ -30,6 +22,10 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 **Mark Harris (Data Science Engineer)**
 [LinkedIn](https://www.linkedin.com/in/markcharris1/) |
 [GitHub](https://github.com/MarkCHarris)
+
+**Alaysia Veal (Software Engineer)**
+[LinkedIn](https://www.linkedin.com/in/alaysia-veal/)
+[GitHub](https://github.com/AlaysiaVeal)
 
 **Martin Fitzpatrick (Software Engineer)**
 
@@ -55,13 +51,6 @@ consider bill payments, rent, utilities, subscriptions, and visualization of dat
 
 ---
 
-### Wireframes
-
----
-
-### Production version
-
----
 
 ## Deployed Website
 
