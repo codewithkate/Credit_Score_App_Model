@@ -13,7 +13,7 @@ Embark on a seamless credit journey with our innovative web application. ScoreEa
 
 ---
 **Kimberly Mannette (UX Designer)**
-[LinkedIn](https://www.linkedin.com/in/kimberly-m-52124727)
+[LinkedIn](https://www.linkedin.com/in/kimberly-m-52124727) |
 
 **Kate Crawford (Data Science Engineer)**
 [LinkedIn](https://www.linkedin.com/in/kaitlencrawford/) |
@@ -24,7 +24,7 @@ Embark on a seamless credit journey with our innovative web application. ScoreEa
 [GitHub](https://github.com/MarkCHarris)
 
 **Alaysia Veal (Software Engineer)**
-[LinkedIn](https://www.linkedin.com/in/alaysia-veal/)
+[LinkedIn](https://www.linkedin.com/in/alaysia-veal/) |
 [GitHub](https://github.com/AlaysiaVeal)
 
 **Martin Fitzpatrick (Software Engineer)**
@@ -49,7 +49,7 @@ Embark on a seamless credit journey with our innovative web application. ScoreEa
 
 ## Screenshots
 
-![Credit Score Model Diagram](https://github.com/codewithkate/Credit_Score_App_Model/blob/dev/CreditScoreApp.png)
+![Credit Score Model Diagram](https://github.com/codewithkate/Credit_Score_App_Model/blob/main/CreditScoreApp.png)
 
 ---
 
