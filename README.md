@@ -24,19 +24,19 @@ Embark on a seamless credit journey with our innovative web application. ScoreEa
 
 *The landing screen when the application first loads.  The user has the option of logging in or navigating to the dashboard screen to further explore the application*  
 
-![Home](./src/images/LogoutHomeScreenshot.png)
+![Home](./src/LogoutHomeScreenshot.png)
 
 **Dashboard Screen (Logged Out)**: 
 
 *The user has the option of logging in or reviewing the different categories they would need to fill to obtain an estimated credit score*
 
-![LoggedOut](./src/images/LogoutDashboardScreenshot.png)
+![LoggedOut](./src/LogoutDashboardScreenshot.png)
 
 **Dashboard Screen (Logged In)**
 
 *Once the user logs in, they are greeted at the top of the application and the input fields appear allowing them to input the relevant information to determine their scores.*
 
-![LoggedIn](./src/images/LoginDashboardScreenshot.png)
+![LoggedIn](./src/LoginDashboardScreenshot.png)
 
 
 ## How ScoreEase was Built
@@ -85,13 +85,13 @@ The algorithm edge cases:
 
 The below diagram illustrates the communciation flow between the Front-End, Back-End, and Firebase.
 
-![FirebaseFlow](./src/images/FirebaseFlow.png)
+![FirebaseFlow](./src/FirebaseFlow.png)
 
 ### Data Science Modelling Approach
 
-The model calculates a score that predicts the probability of a borrower repaying a loan on time.  It uses Weight of Evidence (WoE) which explains howcertain factors, such as age or spending, affects credit history.  The aim is to provide more transparent scoring metrics.
+The model calculates a score that predicts the probability of a borrower repaying a loan on time.  It uses Weight of Evidence (WoE) which explains howcertain factors, such as age or spending, affects credit history. The aim is to provide more transparent scoring metrics. [Read more about this process](./src/CreditScoringProcess.md).
 
-![DataModelApproach](./src/images/DataModelApproach.png)
+![DataModelApproach](./src/DataModelApproach.png)
 
 ### The Result
 
