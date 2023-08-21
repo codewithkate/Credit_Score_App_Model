@@ -1,4 +1,4 @@
-# Credit-Suzzie
+# CreditEase
 
 General Assembly Hackathon Summer August 14th 2023
 
