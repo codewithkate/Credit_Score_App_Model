@@ -187,7 +187,7 @@ for col, woe_val, iv_val in zip(df_woe.columns, encoder.woe_, encoder.iv_)
 $nominator = (n+a)/(y+2*a)$
 $denominator = ln(nominator/denominator)$
 
-*Not certain on the nominator and denominator values, so reference the [documentation](https://contrib.scikit-learn.org/category_encoders/woe.html) for an explanation.*
+*Reference [documentation](https://contrib.scikit-learn.org/category_encoders/woe.html) for further an explanation.*
 ##### Alternative category encoder method:
 
 ```python
